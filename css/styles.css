@@ -7995,7 +7995,7 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-    background-color: #bd5d38 !important;
+    background-color: #28464B !important;
 }
 
 .bg-secondary {
@@ -11564,6 +11564,10 @@ p.lead {
     border-radius: 100%;
     font-size: 1.5rem;
     margin-right: 1.5rem;
+}
+.social-icon {
+    -webkit-transition: 300ms;
+    transition: 300ms;
 }
 
 .social-icons .social-icon:last-child {
