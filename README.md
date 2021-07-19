@@ -1,2 +1,2 @@
 # MohamadCM.github.io
-My personal page on GitHub
+My personal web page codebase.
